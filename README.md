@@ -1,11 +1,10 @@
-## Panel SA:MP
+# Panel SA:MP
+Panel web pentru servere San Andreas Multiplayer, creat pentru comunitatea Bugged.ro.
 
--> bluepanel.bugged.ro by PericolRPG
-#
--> purplepanel.bugged.ro by PericolRPG
+## 🔹 BluePanel
+- 🌐 Website: https://bluepanel.bugged.ro
+- 👤 Autor: pericsq / nocheats
 
-
-## Contact:
-- Discord - PericolRPG#0001
-- [Youtube](https://youtube.com/PericolRPG)
-- Insta - @pericolrpg_ytb
+## 🟣 PurplePanel
+- 🌐 Website: https://purplepanel.bugged.ro (nu mai exista ca au inchis serverul
+- 👤 Autor: pericsq
