@@ -1,10 +1,26 @@
-# Panel SA:MP
-Panel web pentru servere San Andreas Multiplayer, creat pentru comunitatea Bugged.ro.
+# SA:MP Panel
+
+A web panel for **San Andreas Multiplayer** servers, created for the **Bugged.ro** community.
+
+---
 
 ## 🔹 BluePanel
-- 🌐 Website: https://bluepanel.bugged.ro
-- 👤 Autor: pericsq / nocheats
+
+- 🌐 Website: [https://bluepanel.bugged.ro](https://bluepanel.bugged.ro)  
+- 👤 Author: **pericsq / nocheats**
+
+---
 
 ## 🟣 PurplePanel
-- 🌐 Website: https://purplepanel.bugged.ro (nu mai exista ca au inchis serverul
-- 👤 Autor: pericsq
+
+> **Note:** This panel is no longer available – the server has been shut down.
+
+- 🌐 Website: ~~https://purplepanel.bugged.ro~~  
+- 👤 Author: **pericsq**
+
+---
+
+## 🎥 Demo Videos
+
+- [https://www.youtube.com/watch?v=EAgXDbF6UWo](https://www.youtube.com/watch?v=EAgXDbF6UWo)  
+- [https://www.youtube.com/watch?v=onffAgdrstw](https://www.youtube.com/watch?v=onffAgdrstw)
