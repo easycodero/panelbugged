@@ -1,16 +1,17 @@
 /**
- * @name Neutron Nova
- * @version 11.0
- * @description A quiet minimalist Neutron refresh with soft surfaces and restrained accents
- * @author Cruxie + w1zard
- * @invite PZdnCVD
- * @source https://github.com/xcruxiex/themes
- * @website https://betterdiscord.app/theme/Neutron
- */
-
-@import url("https://xcruxiex.github.io/themes/core/badges.css");
-@import url("https://xcruxiex.github.io/themes/core/custom-font.css");
-@import url("https://xcruxiex.github.io/themes/core/hljs.css");
+ * @name DiscordNight
+ * @version 0.9.5.8
+ * @description Dark and compact theme for BetterDiscord
+ * @source https://github.com/KillYoy/DiscordNight/
+ * @updateUrl https://raw.githubusercontent.com/KillYoy/DiscordNight/master/DiscordNight.css
+ * @website 
+ * @donate https://www.paypal.me/KillYoy
+ * @patreon 
+ * @invite 
+ * @author KillYoy#0295
+ * @authorId 98468214824001536
+ * @authorLink 
+*/
 @import url("https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Tilt+Neon:wght@200&display=swap");
