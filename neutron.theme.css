@@ -20,7 +20,7 @@
     --themeColor1: rgb(143, 211, 255);
     --themeColor2: rgb(143, 211, 255);
 
-    --customFont: "Tilt Neon", cursive;
+    --customFont: "Tilt Neon";
 
     --homeImage: linear-gradient(145deg, #101827 0%, #152133 100%);
     --homeImageSize: cover;
