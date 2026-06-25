@@ -1,0 +1,56 @@
+/**
+ * @name Neutron Nova
+ * @version 11.0
+ * @description A quiet minimalist Neutron refresh with soft surfaces and restrained accents
+ * @author Cruxie + w1zard
+ * @invite PZdnCVD
+ * @source https://github.com/xcruxiex/themes
+ * @website https://betterdiscord.app/theme/Neutron
+ */
+
+@import url("https://xcruxiex.github.io/themes/core/badges.css");
+@import url("https://xcruxiex.github.io/themes/core/custom-font.css");
+@import url("https://xcruxiex.github.io/themes/core/hljs.css");
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Tilt+Neon:wght@200&display=swap");
+
+:root {
+    --themeColor1: rgb(143, 211, 255);
+    --themeColor2: rgb(143, 211, 255);
+
+    --customFont: "Tilt Neon", cursive;
+
+    --homeImage: linear-gradient(145deg, #101827 0%, #152133 100%);
+    --homeImageSize: cover;
+
+    --backgroundImage: linear-gradient(145deg, #070a10 0%, #0c111b 58%, #070a10 100%);
+    --backgroundColor: rgba(7, 10, 16, 0.86);
+    --backgroundPosition: center;
+    --backgroundSize: cover;
+    --backgroundRepeat: no-repeat;
+    --backgroundBlur: 0px;
+    --backgroundOpacity: 1;
+
+    --backgroundCode: rgba(11, 16, 24, 0.88);
+    --backgroundName: rgba(11, 16, 24, 0.68);
+
+    --nova-bg: rgba(8, 12, 18, 0.62);
+    --nova-bg-strong: rgba(11, 16, 24, 0.86);
+    --nova-panel: rgba(13, 18, 28, 0.68);
+    --nova-panel-hover: rgba(18, 25, 38, 0.78);
+    --nova-border: transparent;
+    --nova-border-bright: transparent;
+    --nova-text: #eef7ff;
+    --nova-muted: #9bb2c8;
+    --nova-accent: #8fd3ff;
+    --nova-accent-2: #b7c7ff;
+    --nova-success: #5ff5bd;
+    --nova-danger: #ff6f8d;
+    --nova-radius-sm: 8px;
+    --nova-radius-md: 12px;
+    --nova-radius-lg: 18px;
+    --nova-blur: blur(18px) saturate(145%);
+    --nova-shadow: none;
+    --nova-glow: none;
+}
